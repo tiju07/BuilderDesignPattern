@@ -1,0 +1,15 @@
+D:\Training\Project\DesignPatternDemo\bin\Debug\net6.0\DesignPatternDemo.exe
+D:\Training\Project\DesignPatternDemo\bin\Debug\net6.0\DesignPatternDemo.deps.json
+D:\Training\Project\DesignPatternDemo\bin\Debug\net6.0\DesignPatternDemo.runtimeconfig.json
+D:\Training\Project\DesignPatternDemo\bin\Debug\net6.0\DesignPatternDemo.dll
+D:\Training\Project\DesignPatternDemo\bin\Debug\net6.0\DesignPatternDemo.pdb
+D:\Training\Project\DesignPatternDemo\obj\Debug\net6.0\DesignPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Project\DesignPatternDemo\obj\Debug\net6.0\DesignPatternDemo.AssemblyInfoInputs.cache
+D:\Training\Project\DesignPatternDemo\obj\Debug\net6.0\DesignPatternDemo.AssemblyInfo.cs
+D:\Training\Project\DesignPatternDemo\obj\Debug\net6.0\DesignPatternDemo.csproj.CoreCompileInputs.cache
+D:\Training\Project\DesignPatternDemo\obj\Debug\net6.0\DesignPatternDemo.sourcelink.json
+D:\Training\Project\DesignPatternDemo\obj\Debug\net6.0\DesignPatternDemo.dll
+D:\Training\Project\DesignPatternDemo\obj\Debug\net6.0\refint\DesignPatternDemo.dll
+D:\Training\Project\DesignPatternDemo\obj\Debug\net6.0\DesignPatternDemo.pdb
+D:\Training\Project\DesignPatternDemo\obj\Debug\net6.0\DesignPatternDemo.genruntimeconfig.cache
+D:\Training\Project\DesignPatternDemo\obj\Debug\net6.0\ref\DesignPatternDemo.dll
